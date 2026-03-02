@@ -1,2 +1,2 @@
-# Sinter_feed.html
+Sinter_feed.html
 Sinter Feed 
